@@ -1,19 +1,19 @@
 # **Panorama**
 - - -
 ## **Introduction**
-* ### Implemented a particle ﬁlter to track a humanoid robot’s 2D position and orientation using inertial measurement unit (IMU), odometry and laser measurements
-* ### Built 2D occupancy grid maps of the environment using the results of the particle ﬁlter
+* ### Implemented an unscented Kalman ﬁlter (UKF) to estimate the 3D orientation of a rotating body using IMU reading
+* ### Generated panoramic images by stitching camera images based on the UKF estimation results
 
 ## **Results**
-* ### map 1
-![Alt text](img/map1.png)
-* ### map 2
-![Alt text](img/map2.png)
+* ### Result 1
+![Alt text](img/result1.png)
+* ### Result 2
+![Alt text](img/result2.png)
 
 ## **Requirements**
 * ### Python 3 
-* ### [Training data](https://drive.google.com/open?id=0B241vEW29598Zm5LT241b2xLdWs) (from professor Atanasov 
-* ### [Test data](https://drive.google.com/open?id=0B241vEW29598UTJTM2hnMnNfZGs) (from professor Atanasov 
+* ### [Training data](https://drive.google.com/open?id=0B241vEW29598UjlWOUFwaTNnRlE) (from professor Atanasov)
+* ### [Test data](https://drive.google.com/open?id=0B241vEW29598Z09xeE5xUExLN2s) (from professor Atanasov)
 
 ## **Run**
 * ### Put the program under ```src```
