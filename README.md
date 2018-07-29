@@ -5,9 +5,9 @@
 * Generated panoramic images by stitching camera images based on the UKF estimation results
 
 ## **Results**
-* Result 1
+* Result 1  
   <img src="img/result1.png" width="575">  
-* Result 2
+* Result 2  
   <img src="img/result2.png" width="575">
 
 ## **Requirements**
