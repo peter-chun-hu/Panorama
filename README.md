@@ -6,10 +6,9 @@
 
 ## **Results**
 * ### Result 1
-![Alt text](img/result1.png)
+<img src="img/result1.png" width="575">
 * ### Result 2
 <img src="img/result2.png" width="575">
-<!--![Alt text](img/result2.png) -->
 
 ## **Requirements**
 * ### Python 3 
