@@ -8,7 +8,7 @@
 * ### Result 1
 ![Alt text](img/result1.png)
 * ### Result 2
-<img src="img/result2.png" width="60%">
+<img src="img/result2.png" width="500">
 <!--![Alt text](img/result2.png) -->
 
 ## **Requirements**
