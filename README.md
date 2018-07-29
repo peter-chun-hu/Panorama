@@ -9,6 +9,7 @@
   <img src="img/result1.png" width="575">  
 * Result 2  
   <img src="img/result2.png" width="575">
+* [Report](report.pdf)
 
 ## **Requirements**
 * Python 3 
